@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+# File name: speedtester.py
+# Description: Tests the Internet speed using Speedtest.net and posts tweet.
+# Author: iamnotzerocool
+# Date: 14-02-2021
+
 from six import BytesIO
 from six.moves.urllib.request import Request, urlopen
 
